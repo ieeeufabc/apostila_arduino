@@ -1,0 +1,92 @@
+# Project information
+site_name: Scripts IEEE UFABC
+site_description: Documentação dos Scripts de Automatização de Processos do IEEE UFABC
+site_author: Adson Batista
+site_url: https://github.com/AdsonBatista/Scripts-automatizacao/
+
+# Repository
+repo_name: AdsonBatista/Scripts-automatizacao
+repo_url: https://github.com/AdsonBatista/Scripts-automatizacao
+
+# Copyright
+copyright: 'Copyright &copy; 2016 - 2017 Adson Batista'
+
+# Theme directory
+theme_dir: material
+# Options
+extra:
+  feature:
+    tabs: false
+  palette:
+    primary: blue
+    accent: blue
+
+# Extensions
+markdown_extensions:
+  - markdown.extensions.admonition
+  - markdown.extensions.codehilite(guess_lang=false)
+  - markdown.extensions.attr_list
+  - markdown.extensions.def_list
+  - markdown.extensions.footnotes
+  - markdown.extensions.meta
+  - markdown.extensions.toc(permalink=true)
+  - markdown.extensions.tables
+  - markdown.extensions.abbr
+  - markdown.extensions.smarty
+  - pymdownx.arithmatex
+  - pymdownx.betterem(smart_enable=all)
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.inlinehilite
+  - pymdownx.magiclink
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
+  - pymdownx.tasklist(custom_checkbox=true)
+  - pymdownx.tilde
+  - pymdownx.details
+  - pymdownx.extrarawhtml
+  - pymdownx.progressbar
+pages:
+  - Início: index.md
+  - Os Projetos: projetos.md
+  - Projetos internos:
+    - Formulários HTML: Form_HTML.md
+    - Tesouraria:
+      - Introdução: tesouraria.md
+      - Recibos: 
+        - Resumo do Projeto: recibos/recibos_i.md
+        - Implementação: #recibos_m.md
+          - Formulário: recibos/recibos_m_form.md
+          - Modelo de recibo: recibos/recibos_m_docs.md
+          - Planilha:
+            - Pastas de trabalho: recibos/recibos_m_planilha.md
+            - Script:
+              # - Estrutura: recibos_m_planilha_estr.md
+              - Auxiliar.gs: recibos/recibos_m_planilha_aux.md
+              - rec_mail_template.html: recibos/recibos_m_planilha_html.md
+              - recibo.gs 1.0: recibos/recibos_m_planilha_rec1.md
+              - recibo.gs 2.0: recibos/recibos_m_planilha_rec2.md
+        - Melhorias: recibos/recibos_t.md
+        - Changelog: recibos/recibos_c.md
+      - Movimentações:  
+        - Funcionalidades: movimentacoes_i.md
+        #- Implementação e manutenção: movimentacoes_m.md
+        - Melhorias: movimentacoes_t.md
+        - Changelog: movimentacoes_c.md
+    - Agenda: 
+      - Funcionalidades: agenda_i.md
+      - Melhorias: agenda_t.md
+      - ChangeLog: agenda_c.md 
+
+extra_css:
+  - extra.css
+extra_javascript:
+  - extra.js
+
+extra_css:
+  - extra.css
+  - extra1.css
+extra_javascript:
+  - extra.js
+  - extra1.js
