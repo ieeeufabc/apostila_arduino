@@ -30,7 +30,8 @@ TODO: FIGURA
         digitalWrite(led, estado); 
       }
     }
-  ```
+    ```
+ 
 ??? note "Código Comentado"
     ```c
     int led = 12; //declara a variável "led" como tipo int, conectada na porta 12 do arduino 
