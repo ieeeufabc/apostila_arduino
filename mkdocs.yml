@@ -49,35 +49,11 @@ markdown_extensions:
   - pymdownx.progressbar
 pages:
   - Início: index.md
-  - Os Projetos: projetos.md
-  - Projetos internos:
-    - Formulários HTML: Form_HTML.md
-    - Tesouraria:
-      - Introdução: tesouraria.md
-      - Recibos: 
-        - Resumo do Projeto: recibos/recibos_i.md
-        - Implementação: #recibos_m.md
-          - Formulário: recibos/recibos_m_form.md
-          - Modelo de recibo: recibos/recibos_m_docs.md
-          - Planilha:
-            - Pastas de trabalho: recibos/recibos_m_planilha.md
-            - Script:
-              # - Estrutura: recibos_m_planilha_estr.md
-              - Auxiliar.gs: recibos/recibos_m_planilha_aux.md
-              - rec_mail_template.html: recibos/recibos_m_planilha_html.md
-              - recibo.gs 1.0: recibos/recibos_m_planilha_rec1.md
-              - recibo.gs 2.0: recibos/recibos_m_planilha_rec2.md
-        - Melhorias: recibos/recibos_t.md
-        - Changelog: recibos/recibos_c.md
-      - Movimentações:  
-        - Funcionalidades: movimentacoes_i.md
-        #- Implementação e manutenção: movimentacoes_m.md
-        - Melhorias: movimentacoes_t.md
-        - Changelog: movimentacoes_c.md
-    - Agenda: 
-      - Funcionalidades: agenda_i.md
-      - Melhorias: agenda_t.md
-      - ChangeLog: agenda_c.md 
+  - Teoria:
+    - Arduino Uno: Teoria/ArduinoUno.md
+    - Programação: Teoria/Programacao.md
+  - Projetos:
+    - Projetos: Projetos/projetos.md
 
 extra_css:
   - extra.css
