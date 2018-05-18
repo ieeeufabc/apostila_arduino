@@ -98,30 +98,30 @@ Saber usar os operadores de maneira correta é essencial na programação tanto 
 ## Constantes
 Constantes são valores que não podem ser alterados, normalmente assumem dois valores e podem ser interpretados como números binários 0 (zero) e 1 (um).
 
- *TRUE/FALSE: são constantes booleanas que definem estados lógicos. Verdadeiro é qualquer valor que não seja zero. Falso é sempre o valor zero.
- *HIGH/LOW: essas constantes definem as tensões nos pinos digitais do Arduino. Alto é uma tensão de 5 volts; baixo, o terra (ou 0 volt).
- *INPUT/OUTPUT: são constantes programadas pela função “pinMode()” para os pinos do Arduino; eles podem ser entradas (de sensores), INPUT ou podem ser saídas (de controle), OUTPUT.
+- TRUE/FALSE: são constantes booleanas que definem estados lógicos. Verdadeiro é qualquer valor que não seja zero. Falso é sempre o valor zero.
+- HIGH/LOW: essas constantes definem as tensões nos pinos digitais do Arduino. Alto é uma tensão de 5 volts; baixo, o terra (ou 0 volt).
+- INPUT/OUTPUT: são constantes programadas pela função “pinMode()” para os pinos do Arduino; eles podem ser entradas (de sensores), INPUT ou podem ser saídas (de controle), OUTPUT.
 
 ## Variáveis
 As variáveis são posições na memória do programa que possuem um nome e o tipo de informação que irão guardar. Essas posições podem inicialmente estar vazias ou contar algum valor e sempre podem ser alteradas pelo programa ou pelo programador. A variável deve ser declarada antes de ser chamada e deve constituir de um nome e o tipo. Uma variável pode ser global ou local de acordo de onde ela foi declarada, se for logo no início, antes da função void setup(), ela será global e pode ser usada e “vista” por qualquer função do programa. Se for declarada dentro de uma função, ela será local e será usada e “vista” somente por essa função.
- *byte - esse tipo armazena 8 bits (0-255);
- *int - armazena números inteiros de até 16 bits;
- *long - armazena números inteiros de até 32 bits;
- *float - variáveis deste tipo podem armazenar números fracionários de até 32 bits.
+- byte - esse tipo armazena 8 bits (0-255);
+- int - armazena números inteiros de até 16 bits;
+- long - armazena números inteiros de até 32 bits;
+- float - variáveis deste tipo podem armazenar números fracionários de até 32 bits.
 As vezes temos que guardar várias variáveis do mesmo tipo e usá-las com frequência. Sendo assim, guardamos em vetores. Abaixo mostramos como montar vetores no Arduino, lembrando que sempre a primeira posição será a posição 0.
- *Para declarar vetores diga seu tipo, um nome e escrever “Vetor” na frente seguido de colchetes, quando declarar valores separe-os com vírgula e sempre entre chaves como no exemplo: `int nomeVetor [ ] = {1, 3, 4, 7}`; 
- *Pode-se também declarar o tamanho do vetor, para isso coloque o número de termos entre os colchetes como no exemplo: `int nomeVetor[13]` ;
- *Pode-se também armazenar um determinado valor em um lugar específico do vetor como no exemplo que guarda um inteiro de valor 2 na posição 8 do vetor: `int nomeVetor[8]= 2`;
+- Para declarar vetores diga seu tipo, um nome e escrever “Vetor” na frente seguido de colchetes, quando declarar valores separe-os com vírgula e sempre entre chaves como no exemplo: `int nomeVetor [ ] = {1, 3, 4, 7}`; 
+- Pode-se também declarar o tamanho do vetor, para isso coloque o número de termos entre os colchetes como no exemplo: `int nomeVetor[13]` ;
+- Pode-se também armazenar um determinado valor em um lugar específico do vetor como no exemplo que guarda um inteiro de valor 2 na posição 8 do vetor: `int nomeVetor[8]= 2`;
 
 # Funções
 
 Muitas vezes precisamos executar a mesma tarefa diversas vezes. Quando isso acontece, para diminuir as chances de erros e deixar o código mais claro criamos funções. No Arduino também utilizamos muito essa ferramenta. Abaixo segue de modo simplificado como criar funções no Arduino e tem basicamente a seguinte estrutura:
 
- *Tipo da função (int, float, etc.);
- *Nome da função (o nome que achar melhor) seguido de “Function”;
- *Os parâmetros que são passados para a função;
- *Operação que deseja que a função execute;
- *Retorna o valor (ou valores) que a função calculou.
+- Tipo da função (int, float, etc.);
+- Nome da função (o nome que achar melhor) seguido de “Function”;
+- Os parâmetros que são passados para a função;
+- Operação que deseja que a função execute;
+- Retorna o valor (ou valores) que a função calculou.
 
 Abaixo temos um exemplo de função que recebe os valores de a, b, c e calcula as raízes e as retorna como x1 e x2
 
