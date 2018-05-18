@@ -54,6 +54,8 @@ pages:
     - Programação: Teoria/Programacao.md
   - Projetos:
     - Projetos: Projetos/projetos.md
+    - Extra 1 - Blink Millis: Projetos/Extra1-BlinkMillis.md
+    - Extra 2 - Farol Vetor: Extra2-FarolVetor.md
 
 extra_css:
   - extra.css
