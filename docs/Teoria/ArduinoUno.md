@@ -1,7 +1,7 @@
 # ARDUINO UNO
 Nesta apostila mostraremos como trabalhar com a placa microcontroladora da marca Arduino. Por ser um open source project (uma plataforma aberta), há disponível gratuitamente o diagrama de circuito de suas placas assim como o seu software. Dessa forma, existem diversas outras marcas de microcontroladores compatíveis com o original e até mesmo a possibilidade do usuário montar sua própria placa. Utilizaremos o modelo Arduino UNO R3, mas também podem ser usadas outras marcas como Freeduino, Seeeduino, Boarduino, Sanguino, Roboduino, etc, que são totalmente comunicáveis com o Arduino IDE, Arduino Shields e tudo mais que você pode usar com uma placa Arduino Oficial.
 
-![arduinouno]https://github.com/IEEEUFABC/apostila_arduino/blob/master/docs/Teoria/imagens/Arduino_uno.png "Arduino Uno")
+![arduinouno](https://github.com/IEEEUFABC/apostila_arduino/blob/master/docs/Teoria/imagens/Arduino_uno.png "Arduino Uno")
 
 ## O QUE EXATAMENTE É UM ARDUINO?
 Segundo o site FlipFlop, Arduino é uma placa composta por um microcontrolador Atmel, circuitos de entrada/saída e que pode ser facilmente conectada à um computador e programada via IDE (Integrated Development Environment, ou Ambiente de Desenvolvimento Integrado), utilizando uma linguagem baseada em C/C++ sem a necessidade de equipamentos extras além de um cabo USB.
