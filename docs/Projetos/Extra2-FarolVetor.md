@@ -1,5 +1,3 @@
-## Extra 2 - Farol vetor
-
 Este é um projeto extra! Tente refazer o Projeto 2 - Farol utilizando os conceitos de vetor.
 
 ??? note "Código"
