@@ -114,6 +114,7 @@ As vezes temos que guardar várias variáveis do mesmo tipo e usá-las com frequ
  *Pode-se também armazenar um determinado valor em um lugar específico do vetor como no exemplo que guarda um inteiro de valor 2 na posição 8 do vetor: `int nomeVetor[8]= 2`;
 
 # Funções
+
 Muitas vezes precisamos executar a mesma tarefa diversas vezes. Quando isso acontece, para diminuir as chances de erros e deixar o código mais claro criamos funções. No Arduino também utilizamos muito essa ferramenta. Abaixo segue de modo simplificado como criar funções no Arduino e tem basicamente a seguinte estrutura:
 
  *Tipo da função (int, float, etc.);
@@ -123,6 +124,15 @@ Muitas vezes precisamos executar a mesma tarefa diversas vezes. Quando isso acon
  *Retorna o valor (ou valores) que a função calculou.
 
 Abaixo temos um exemplo de função que recebe os valores de a, b, c e calcula as raízes e as retorna como x1 e x2
+
+```arduino
+	int bhaskaraFunction (int a, b, c){ 
+	double delta, x1, x2; 
+	delta = sq(b) - 4*a*c; x1=(-b + sqrt(delta))/2; 
+	x2=(-b - sqrt(delta))/2; 
+	return x1, x2; 
+	}
+```
 
 Temos funções na biblioteca do Arduino que são muito úteis. Essas funções podem ser de tempo, matemáticas e de entrada e saída. Segue algumas principais delas com seus respectivos usos:
 
@@ -161,25 +171,86 @@ Nos códigos dos programas muitas vezes é preciso executar uma função diversa
 
 É um laço de controle de fluxo onde ele executa certas instruções somente se as condições dentro dos parênteses forem aceitas. As instruções devem ser colocadas depois do if e dentro de chaves (recomendado) ou não. Exemplo de uso do if:
 
+```arduino
+if (x > 120) 
+digitalWrite(LEDpin1, HIGH); 
+if (x < 120) 
+digitalWrite(LEDpin, HIGH); 
+if (x > 120){ 
+	digitalWrite(LEDpin2,HIGH); 
+	} 
+if (x = 120){ 
+	digitalWrite(LEDpin1, HIGH); 
+	digitalWrite(LEDpin2, HIGH); 
+	}
+```
+
 TODO: FIGURA
 
 Se acrescentarmos mais um bloco de instruções, pode-se criar o comando if... else, que nada mais é se a primeira condição (if) não for satisfeita o programa atua com as instruções dentro de else. O exemplo abaixo ilustra isso:
+
+```arduino
+If (x > 120){ 
+	digitalWrite(LEDpin1, HIGH); 
+	digitalWrite(LEDpin2, HIGH); 
+	} 
+	else { 
+		digitalWrite(LEDpin1, LOW); 
+		digitalWrite(LEDpin2, LOW); 
+		} 
+		digitalWrite(LEDpin2, HIGH); 
+	}
+```
 
 TODO: FIGURA
 
 ### Switch...case
 Esse laço controla o fluxo de programas permitindo o programador especificar diferentes códigos que deverão ser executados em diferentes condições. O switch compara o valor especificado com as sentenças e quando o valor é o mesmo, ele executa o código. Usualmente coloca-se a palavra break, assim quando uma condição é aceita o programa para de executar e pula para a próxima ação.
 
+```arduino
+switch (var) { 
+	case var=1: 
+	digitalWrite(LEDpin1, HIGH); 
+	break; 
+	case var=2: 
+	digitalWrite (LEDpin1, LOW); 
+	break; 
+	case var=3: 
+	digitalWrite (LEDpin2, HIGH); 
+	break; 
+	case var=4: 
+	digitalWrite (LEDpin2, LOW); 
+	break; 
+}
+```
 TODO: FIGURA
 
 ### While
 
 É um dos laços mais usado nos programas. Sua função é executar determinadas instruções até que uma condição inicialmente verdadeira se torne falsa ou o contrário.
 
+```arduino
+var = 0; 
+while(var < 200){ 
+	digitalWrite(LEDpin1, HIGH) 
+	var++; 
+}
+```
 TODO: FIGURA
 
 ### For
 
 A declaração for é a mais utilizada na programação e é usada para repetir as instruções colocadas entre chaves. Normalmente se usa um contador para fazer o ciclo desejado. Esse laço é dividido em três partes: for(inicialização; condição; incremento). Note que cada parâmetro dentro do parênteses é separado por ponto e vírgula.
+
+```arduino
+int PWMpin = 10; 
+void setup(){} 
+void loop(){
+	for (int i=0; i <= 255; i++){
+		analogWrite(PWMpin, i); 
+		delay(10); 
+		} 
+	}
+```
 
 TODO: FIGURA
