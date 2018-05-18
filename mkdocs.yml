@@ -1,15 +1,15 @@
 # Project information
-site_name: Scripts IEEE UFABC
-site_description: Documentação dos Scripts de Automatização de Processos do IEEE UFABC
-site_author: Adson Batista
-site_url: https://github.com/AdsonBatista/Scripts-automatizacao/
+site_name: Apostila de Arduino IEEE UFABC
+site_description: Apostila de Arduino IEEE UFABC
+site_author: Ramo estudantil IEEE UFABC
+site_url: https://github.com/IEEEUFABC/apostila_arduino
 
 # Repository
-repo_name: AdsonBatista/Scripts-automatizacao
-repo_url: https://github.com/AdsonBatista/Scripts-automatizacao
+repo_name: IEEEUFABC/apostila_arduino
+repo_url: https://github.com/IEEEUFABC/apostila_arduino
 
 # Copyright
-copyright: 'Copyright &copy; 2016 - 2017 Adson Batista'
+copyright: 'Copyright &copy; 2017 - 2018 IEEE UFABC'
 
 # Theme directory
 theme_dir: material
