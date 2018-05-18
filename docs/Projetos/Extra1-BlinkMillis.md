@@ -1,12 +1,13 @@
 Este é um projeto extra! Tente refazer o Projeto 1 – Blink utilizando a função `millis()`.
 
-# LISTA DE MATERIAIS
+## LISTA DE MATERIAIS
  - 1 LED Azul
  - 1 LED Infravermelho
  - 1 Resistor 5kΩ
  - 1 Resistor 220Ω
 
-# MODELO ESQUEMÁTICO EM PROTOBOARD
+## MODELO ESQUEMÁTICO EM PROTOBOARD
+
 TODO: FIGURA
 
 ??? note "Código" 
@@ -31,7 +32,8 @@ TODO: FIGURA
       }
     }
     ```
- 
+
+    
 ??? note "Código Comentado"
     ```c
     int led = 12; //declara a variável "led" como tipo int, conectada na porta 12 do arduino 
@@ -53,4 +55,4 @@ TODO: FIGURA
         digitalWrite(led, estado); //determina o estado do pino 12, variável "led" de acordo com o resultado da variável "estado" 
       }
     }
-  ```
+    ```
