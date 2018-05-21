@@ -54,6 +54,8 @@ pages:
     - Programação: Teoria/Programacao.md
   - Projetos:
     - Projetos: Projetos/projetos.md
+    - Ultrassom: Projetos/PROJETO14-ULTRASSOM.md
+    - Scanner: Projetos/PROJETO15-SCANNER.md
     - Extra 1 - Blink Millis: Projetos/Extra1-BlinkMillis.md
     - Extra 2 - Farol Vetor: Projetos/Extra2-FarolVetor.md
 
