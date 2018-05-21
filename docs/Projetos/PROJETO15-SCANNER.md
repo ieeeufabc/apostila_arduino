@@ -1,5 +1,3 @@
-## PROJETO 15 - SCANNER
-
 Neste projeto identificaremos cores por ondas de infravermelho.
 
 ### LISTA DE MATERIAIS
