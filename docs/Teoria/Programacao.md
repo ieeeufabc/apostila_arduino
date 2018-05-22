@@ -1,5 +1,18 @@
 Trabalhar com Arduino é bastante simples sua programação é dividida em dois blocos que são escritos em linguagem C/C++. Um dos blocos no escopo do código é o void setup(), onde faremos a configuração dos pinos a serem utilizados. No outro bloco, o void loop(), será executado o código de comando  em ciclos infinitos e repetitivos. Abaixo segue o exemplo mais simples disponível mostrando o uso dos dois blocos.
 
+```c
+int led = 13;
+void setup() {
+pinMode(led, OUTPUT);
+}
+void loop() {
+digitalWrite(led, HIGH); 
+delay(1000); 
+digitalWrite(led, LOW); 
+delay(1000); 
+}
+```
+
 O código acima é um simples teste onde o primeiro bloco está dizendo que o pino 13 (led) do Arduino será saída, e no segundo está dizendo que a saída será alta (5V) por mil milissegundos (1 segundo) e em seguida ficará desligada também por mil milissegundos. Vale observar que a função delay conta o tempo em milissegundos.
 
 ## Operadores
@@ -100,6 +113,8 @@ Nos códigos dos programas muitas vezes é preciso executar uma função diversa
 
 ### If (condicional) e if... Else
 
+![11](https://raw.githubusercontent.com/IEEEUFABC/apostila_arduino/master/docs/Teoria/imagens/11.png)
+
 É um laço de controle de fluxo onde ele executa certas instruções somente se as condições dentro dos parênteses forem aceitas. As instruções devem ser colocadas depois do if e dentro de chaves (recomendado) ou não. Exemplo de uso do if:
 
 ```c
@@ -116,8 +131,6 @@ if (x = 120) {
 }
 ```
 
-TODO: FIGURA
-
 Se acrescentarmos mais um bloco de instruções, pode-se criar o comando if... else, que nada mais é se a primeira condição (if) não for satisfeita o programa atua com as instruções dentro de else. O exemplo abaixo ilustra isso:
 
 ```c
@@ -131,7 +144,8 @@ If(x > 120) {
 digitalWrite(LEDpin2, HIGH);
 ```
 
-TODO: FIGURA
+![12](https://raw.githubusercontent.com/IEEEUFABC/apostila_arduino/master/docs/Teoria/imagens/12.png)
+
 
 ### Switch...case
 Esse laço controla o fluxo de programas permitindo o programador especificar diferentes códigos que deverão ser executados em diferentes condições. O switch compara o valor especificado com as sentenças e quando o valor é o mesmo, ele executa o código. Usualmente coloca-se a palavra break, assim quando uma condição é aceita o programa para de executar e pula para a próxima ação.
@@ -152,7 +166,8 @@ case var = 4:
   break;
 }
 ```
-TODO: FIGURA
+![13](https://raw.githubusercontent.com/IEEEUFABC/apostila_arduino/master/docs/Teoria/imagens/13.png)
+
 
 ### While
 
@@ -165,7 +180,8 @@ while (var < 200) {
   var ++;
 }
 ```
-TODO: FIGURA
+![14](https://raw.githubusercontent.com/IEEEUFABC/apostila_arduino/master/docs/Teoria/imagens/14.png)
+
 
 ### For
 
@@ -181,5 +197,5 @@ void loop() {
   }
 }
 ```
+![15](https://raw.githubusercontent.com/IEEEUFABC/apostila_arduino/master/docs/Teoria/imagens/15.png)
 
-TODO: FIGURA
