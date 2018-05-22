@@ -69,8 +69,8 @@ pages:
     - Servo Motor: Projetos/PROJETO13-SERVOMOTOR.md
     - Ultrassom: Projetos/PROJETO14-ULTRASSOM.md
     - Scanner: Projetos/PROJETO15-SCANNER.md
-    - Extra 1 - Blink Millis: Projetos/Extra01-BlinkMillis.md
-    - Extra 2 - Farol Vetor: Projetos/Extra02-FarolVetor.md
+    - Extra 1 - Blink Millis: Projetos/Extra1-BlinkMillis.md
+    - Extra 2 - Farol Vetor: Projetos/Extra2-FarolVetor.md
 
 extra_css:
   - extra.css
