@@ -1,12 +1,13 @@
 Este é um projeto extra! Tente refazer o Projeto 1 – Blink utilizando a função `millis()`.
 
-### LISTA DE MATERIAIS
+## Lista de materiais
+
  - 1 LED Azul
  - 1 LED Infravermelho
  - 1 Resistor 5kΩ
  - 1 Resistor 220Ω
 
-### MODELO ESQUEMÁTICO EM PROTOBOARD
+## Modelo esquemático em Protoboard
 
 TODO: FIGURA
 

@@ -1,10 +1,10 @@
-## PROJETO 14 - ULTRASSOM
 Utilizando o sensor ultrassônico será determinada a distância entre objetos!
 
-### LISTA DE MATERIAIS
+## Lista de materiais
+
  - Sensor ultrassónico
 
-### MODELO ESQUEMÁTICO EM PROTOBOARD
+## Modelo esquemático em Protoboard
 
 TODO: FIGURA
 

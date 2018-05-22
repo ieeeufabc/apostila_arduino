@@ -53,7 +53,20 @@ pages:
     - Arduino Uno: Teoria/ArduinoUno.md
     - Programação: Teoria/Programacao.md
   - Projetos:
-    - Projetos: Projetos/projetos.md
+#    - Projetos: Projetos/projetos.md
+    - Blink: Projetos/PROJETO01-BLINK.md
+    - Farol: Projetos/PROJETO02-FAROL.md
+    - Botão: Projetos/PROJETO03-BOTÃO.md
+    - Alarme Tilt: Projetos/PROJETO04-ALARMETILT.md
+    - Buzzer: Projetos/PROJETO05-BUZZER.md
+    - Led RGB: Projetos/PROJETO06-LEDRGB.md
+    - Hello Word: Projetos/PROJETO07-HELLOWORD.md
+    - Potenciômetro: Projetos/PROJETO08-POTENCIOMETRO.md
+    - Intensidade de Luz: Projetos/PROJETO09-INTENSIDADEDELUZ.md
+    - Smart Light: Projetos/PROJETO10-SMARTLIGHT.md
+    - Temperatura: Projetos/PROJETO11-TEMPERATURA.md
+    - Intensidade de Luz: Projetos//PROJETO09-INTENSIDADEDELUZv.md
+    - Servo Motor: Projetos/PROJETO13-SERVOMOTOR.md
     - Ultrassom: Projetos/PROJETO14-ULTRASSOM.md
     - Scanner: Projetos/PROJETO15-SCANNER.md
     - Extra 1 - Blink Millis: Projetos/Extra1-BlinkMillis.md

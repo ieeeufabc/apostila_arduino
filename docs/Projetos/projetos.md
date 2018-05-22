@@ -3,11 +3,11 @@
 ## PROJETO 1 - BLINK
 Este projeto tem como objetivo demonstrar como realizar o acionamento e desacionamento de um LED.
 
-### LISTA DE MATERIAIS:
+## Lista de materiais:
  - 1 LED azul;
  - 1 Resistor 220Ω.
 
-### MODELO ESQUEMÁTICO EM PROTOBOARD
+## Modelo esquemático em Protoboard
 TODO: FIGURA
 
 ### CÓDIGO COMENTADO
@@ -26,13 +26,15 @@ void loop() {
 
 ## PROJETO 2 - FAROL
 Este projeto tem como objetivo construir um sistema simulado de um farol de transito. Para isso os conceitos aprendidos no Projeto 1 - Blink serão utilizados.
-### LISTA DE MATERIAIS
+## Lista de materiais
+
+ - 
  - 1 LED vermelho
  - 1 LED amarelo
  - 1 LED verde
  - 3 Resistor 220Ω
 
-### MODELO ESQUEMÁTICO EM PROTOBOARD
+## Modelo esquemático em Protoboard
 TODO: FIGURA
 
 ### CÓDIGO COMENTADO
@@ -62,13 +64,15 @@ void loop() {
 ## PROJETO 3 - BOTÃO
 Neste projeto será trabalhado a lógica de botões “press” e “switch”, primeiro acionando um LED enquanto o botão é pressionado e posteriormente armazenando os dados em variáveis para manter o LED aceso ou apagado.
 
-### LISTA DE MATERIAIS
+## Lista de materiais
+
+ - 
  - 1 LED vermelho
  - 1 Botão
  - 1 Resistor 10kΩ
  - 1 Resistor 220Ω
 
-### MODELO ESQUEMÁTICO EM PROTOBOARD
+## Modelo esquemático em Protoboard
 TODO: FIGURA
 
 ### CÓDIGO COMENTADO - CASO - 1 
@@ -112,12 +116,14 @@ void loop() {
 
 Nesse projeto utilizaremos um sensor de inclinação para acionar um alarme!
 
-### LISTA DE MATERIAIS
+## Lista de materiais
+
+ - 
  - 1 LED Vermelho
  - 1 Resistor 220Ω
  - 1 Sensor de inclinação
 
-### MODELO ESQUEMÁTICO EM PROTOBOARD
+## Modelo esquemático em Protoboard
 TODO: FIGURA
 
 ### CÓDIGO COMENTADO
@@ -140,10 +146,12 @@ void loop() {
 ## PROJETO 5 - BUZZER
 Hora de fazer barulho! Neste projeto faremos uma campainha!
 
-### LISTA DE MATERIAIS
+## Lista de materiais
+
+ - 
  - 1 Buzzer
 
-### MODELO ESQUEMÁTICO EM PROTOBOARD
+## Modelo esquemático em Protoboard
 TODO: FIGURA
 
 ### CÓDIGO COMENTADO
@@ -161,11 +169,13 @@ void setup() {
 ## PROJETO 6 - LED RGB
 Neste projeto será iremos controlar as cores de um LED RGB.
 
-### LISTA DE MATERIAIS
+## Lista de materiais
+
+ - 
  -  1 RGB LED
  -  3 Resistor 220Ω
 
-### MODELO ESQUEMÁTICO EM PROTOBOARD
+## Modelo esquemático em Protoboard
 TODO: FIGURA
 
 ### CÓDIGO COMENTADO
@@ -209,10 +219,12 @@ TODO: FIGURA
 
 ## PROJETO 8 - POTENCIÔMETRO
 Vamos ler e exibir valores no monitor serial!
-### LISTA DE MATERIAIS
+## Lista de materiais
+
+ - 
  - 1 potenciômetro
 
-### MODELO ESQUEMÁTICO EM PROTOBOARD
+## Modelo esquemático em Protoboard
 TODO: FIGURA
 
 ### CÓDIGO COMENTADO
@@ -231,13 +243,13 @@ void loop() {
 ```
 ## PROJETO 9 - INTENSIDADE DE LUZ
 Simularemos agora um sistema de iluminação, onde a intensidade luminosa é regulada pelo potenciômetro e conversão com a função `map()`.
-### LISTA DE MATERIAIS
+## Lista de materiais
 
  - 1 LED Vermelho
  - 1 Resistor 220Ω
  - 1 potenciômetro
 
-### MODELO ESQUEMÁTICO EM PROTOBOARD
+## Modelo esquemático em Protoboard
 TODO: FIGURA
 ### CÓDIGO COMENTADO
 ```c
@@ -255,13 +267,15 @@ void loop() {
 ```
 ## PROJETO 10 - SMART LIGHT
 Cansou de ajustar manualmente a luz de casa? Neste projeto será desenvolvido um sistema automático de controle de intensidade luminosa utilizando LDR.
-### LISTA DE MATERIAIS
+## Lista de materiais
+
+ - 
  - 1 LED Vermelho
  - 1 Resistor 10kΩ
  - 1 Resistor 220Ω
  - 1 LDR
 
-### MODELO ESQUEMÁTICO EM PROTOBOARD
+## Modelo esquemático em Protoboard
 TODO: FIGURA
 
 ### CÓDIGO COMENTADO
@@ -281,10 +295,12 @@ void loop() {
 
 ## PROJETO 11 - TEMPERATURA
 Quente ou frio? Nesse projeto faremos a conversão e leitura de sinais analógicos para detecção de temperatura.
-### LISTA DE MATERIAIS
+## Lista de materiais
+
+ - 
  - 1 LM35 Sensor de Temperatura
 
-### MODELO ESQUEMÁTICO EM PROTOBOARD
+## Modelo esquemático em Protoboard
 TODO: FIGURA
 
 ### CÓDIGO COMENTADO
@@ -304,10 +320,12 @@ void loop() {
 
 ## PROJETO 12 - INTENSIDADE DE LUZ
 Ansioso para automatizar seus projetos? Nesse projeto iremos utilizar um servo motor de forma autônoma!
-### LISTA DE MATERIAIS
+## Lista de materiais
+
+ - 
  - 1 Servo Motor
 
-### MODELO ESQUEMÁTICO EM PROTOBOARD
+## Modelo esquemático em Protoboard
 TODO: FIGURA
 ### CÓDIGO COMENTADO
 ```c
@@ -331,11 +349,13 @@ void loop() {
 ## PROJETO 13 - SERVO MOTOR
 Chegou a hora de utilizar um servo motor manualmente!!
 
-### LISTA DE MATERIAIS
+## Lista de materiais
+
+ - 
  - 1 Servo motor
  - 1 Potenciômetro
 
-### MODELO ESQUEMÁTICO EM PROTOBOARD
+## Modelo esquemático em Protoboard
 TODO: FIGURA
 ### CÓDIGO COMENTADO
 ```c
@@ -357,10 +377,12 @@ void loop() {
 ## PROJETO 14 - ULTRASSOM
 Utilizando o sensor ultrassônico será determinada a distância entre objetos!
 
-### LISTA DE MATERIAIS
+## Lista de materiais
+
+ - 
  - Sensor ultrassónico
 
-### MODELO ESQUEMÁTICO EM PROTOBOARD
+## Modelo esquemático em Protoboard
 TODO: FIGURA
 
 ### CÓDIGO COMENTADO
@@ -384,13 +406,15 @@ void loop() {
 
 ## PROJETO 15 - SCANNER
 Neste projeto identificaremos cores por ondas de infravermelho.
-### LISTA DE MATERIAIS
+## Lista de materiais
+
+ - 
  - 1 LED Azul
  - 1 LED Infravermelho
  - 1 Resistor 5kΩ
  - 1 Resistor 220Ω
 
-### MODELO ESQUEMÁTICO EM PROTOBOARD
+## Modelo esquemático em Protoboard
 TODO: FIGURA
 
 ### CÓDIGO COMENTADO
@@ -410,13 +434,15 @@ void loop() {
 ## PROJETO EXTRA 1 - BLINK “MILLIS”
 Este é um projeto extra! Tente refazer o Projeto 1 – Blink utilizando a função `millis()`.
 
-### LISTA DE MATERIAIS
+## Lista de materiais
+
+ - 
  - 1 LED Azul
  - 1 LED Infravermelho
  - 1 Resistor 5kΩ
  - 1 Resistor 220Ω
 
-### MODELO ESQUEMÁTICO EM PROTOBOARD
+## Modelo esquemático em Protoboard
 TODO: FIGURA
 
 ### CÓDIGO COMENTADO

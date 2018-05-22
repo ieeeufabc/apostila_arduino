@@ -1,5 +1,16 @@
 Este é um projeto extra! Tente refazer o Projeto 2 - Farol utilizando os conceitos de vetor.
 
+## Lista de materiais
+
+ - 1 LED vermelho
+ - 1 LED amarelo
+ - 1 LED verde
+ - 3 Resistor 220Ω
+
+## Modelo esquemático em Protoboard
+
+TODO: FIGURA
+
 ??? note "Código"
     ```c
     int led[] = {11,10,9}; 
