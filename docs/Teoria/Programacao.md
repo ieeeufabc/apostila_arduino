@@ -2,7 +2,7 @@ Trabalhar com Arduino é bastante simples sua programação é dividida em dois 
 
 O código acima é um simples teste onde o primeiro bloco está dizendo que o pino 13 (led) do Arduino será saída, e no segundo está dizendo que a saída será alta (5V) por mil milissegundos (1 segundo) e em seguida ficará desligada também por mil milissegundos. Vale observar que a função delay conta o tempo em milissegundos.
 
-# Operadores
+## Operadores
 
 Saber usar os operadores de maneira correta é essencial na programação tanto operadores aritméticos, lógicos e de comparação, por isso segue abaixo a tabela com os símbolos e suas respectivas funções:
 
@@ -25,14 +25,14 @@ Saber usar os operadores de maneira correta é essencial na programação tanto 
 | ||       | Porta lógica “OU” (OR)   | Lógicos    |
 | !        | Porta lógica “NÃO” (NOT) | Lógicos    |
 
-# Constantes
+## Constantes
 Constantes são valores que não podem ser alterados, normalmente assumem dois valores e podem ser interpretados como números binários 0 (zero) e 1 (um).
 
 - TRUE/FALSE: são constantes booleanas que definem estados lógicos. Verdadeiro é qualquer valor que não seja zero. Falso é sempre o valor zero.
 - HIGH/LOW: essas constantes definem as tensões nos pinos digitais do Arduino. Alto é uma tensão de 5 volts; baixo, o terra (ou 0 volt).
 - INPUT/OUTPUT: são constantes programadas pela função “pinMode()” para os pinos do Arduino; eles podem ser entradas (de sensores), INPUT ou podem ser saídas (de controle), OUTPUT.
 
-# Variáveis
+## Variáveis
 As variáveis são posições na memória do programa que possuem um nome e o tipo de informação que irão guardar. Essas posições podem inicialmente estar vazias ou contar algum valor e sempre podem ser alteradas pelo programa ou pelo programador. A variável deve ser declarada antes de ser chamada e deve constituir de um nome e o tipo. Uma variável pode ser global ou local de acordo de onde ela foi declarada, se for logo no início, antes da função void setup(), ela será global e pode ser usada e “vista” por qualquer função do programa. Se for declarada dentro de uma função, ela será local e será usada e “vista” somente por essa função.
 - byte - esse tipo armazena 8 bits (0-255);
 - int - armazena números inteiros de até 16 bits;
@@ -43,7 +43,7 @@ As vezes temos que guardar várias variáveis do mesmo tipo e usá-las com frequ
 - Pode-se também declarar o tamanho do vetor, para isso coloque o número de termos entre os colchetes como no exemplo: `int nomeVetor[13]`;
 - Pode-se também armazenar um determinado valor em um lugar específico do vetor como no exemplo que guarda um inteiro de valor 2 na posição 8 do vetor: `int nomeVetor[8]= 2`;
 
-# Funções
+## Funções
 
 Muitas vezes precisamos executar a mesma tarefa diversas vezes. Quando isso acontece, para diminuir as chances de erros e deixar o código mais claro criamos funções. No Arduino também utilizamos muito essa ferramenta. Abaixo segue de modo simplificado como criar funções no Arduino e tem basicamente a seguinte estrutura:
 
@@ -94,11 +94,11 @@ Temos funções na biblioteca do Arduino que são muito úteis. Essas funções 
 | analogWrite( )        | analogWrite( )             | Escreve valor analógico PWM em um pino                                        |
 | analogRead( )         | analogRead( )              | Lê valor de tensão no pino específico                                         |
 
-# Laços
+## Laços
 
 Nos códigos dos programas muitas vezes é preciso executar uma função diversas vezes ou até que uma certa condição seja satisfeita. Para isso, usamos os comandos de laço que nada mais são comandos de repetição para se fazer uma determinada tarefa ou estabelecer o que fazer caso ela não seja feita. Os laços mais comuns são:
 
-## If (condicional) e if... Else
+### If (condicional) e if... Else
 
 É um laço de controle de fluxo onde ele executa certas instruções somente se as condições dentro dos parênteses forem aceitas. As instruções devem ser colocadas depois do if e dentro de chaves (recomendado) ou não. Exemplo de uso do if:
 
@@ -133,7 +133,7 @@ digitalWrite(LEDpin2, HIGH);
 
 TODO: FIGURA
 
-## Switch...case
+### Switch...case
 Esse laço controla o fluxo de programas permitindo o programador especificar diferentes códigos que deverão ser executados em diferentes condições. O switch compara o valor especificado com as sentenças e quando o valor é o mesmo, ele executa o código. Usualmente coloca-se a palavra break, assim quando uma condição é aceita o programa para de executar e pula para a próxima ação.
 
 ```c
@@ -154,7 +154,7 @@ case var = 4:
 ```
 TODO: FIGURA
 
-## While
+### While
 
 É um dos laços mais usado nos programas. Sua função é executar determinadas instruções até que uma condição inicialmente verdadeira se torne falsa ou o contrário.
 
@@ -167,7 +167,7 @@ while (var < 200) {
 ```
 TODO: FIGURA
 
-## For
+### For
 
 A declaração for é a mais utilizada na programação e é usada para repetir as instruções colocadas entre chaves. Normalmente se usa um contador para fazer o ciclo desejado. Esse laço é dividido em três partes: for(inicialização; condição; incremento). Note que cada parâmetro dentro do parênteses é separado por ponto e vírgula.
 
