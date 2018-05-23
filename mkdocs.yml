@@ -53,7 +53,7 @@ pages:
     - Arduino Uno: Teoria/ArduinoUno.md
     - Programação: Teoria/Programacao.md
   - Projetos:
-#    - Projetos: Projetos/projetos.md
+    - Projetos: Projetos/comeco.md
     - Blink: Projetos/PROJETO01-BLINK.md
     - Farol: Projetos/PROJETO02-FAROL.md
     - Botão: Projetos/PROJETO03-BOTÃO.md
@@ -71,7 +71,7 @@ pages:
     - Scanner: Projetos/PROJETO15-SCANNER.md
     - Extra 1 - Blink Millis: Projetos/Extra01-BlinkMillis.md
     - Extra 2 - Farol Vetor: Projetos/Extra02-FarolVetor.md
-
+    - Extra 3 - Barra de LEDs: Projetos/Extra03-BarradeLeds.md
 extra_css:
   - extra.css
 extra_javascript:

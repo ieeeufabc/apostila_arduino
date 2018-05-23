@@ -6,7 +6,8 @@ Vamos ler e exibir valores no monitor serial!
 
 ## Modelo esquemático em Protoboard
 
-TODO: FIGURA
+![Modelo esquemático][proj8png]
+
 
 ??? note "Código"
     ```c
@@ -37,3 +38,15 @@ TODO: FIGURA
       delay(250); //pausa o programa por 250 milisegundos, para facilitar a leitura dos valores no Monitor Serial 
     }
     ```
+
+## Arquivos para consulta
+
+[Arquivo ino][proj8ino]
+[Arquivo fzz][proj8fzz]
+
+
+
+
+[proj8png]: img/proj/proj8.png
+[proj8ino]: arq/proj8.ino
+[proj8fzz]: arq/proj8.fzz

@@ -2,7 +2,7 @@ Olá Mundo!! Chegou a hora de exibir mensagens!
 
 ### RESULTADO
 
-TODO: FIGURA
+![Modelo esquemático][proj7png]
 
 ??? note "Código Comentado"
     ```c
@@ -23,3 +23,13 @@ TODO: FIGURA
       Serial.println("Olá Mundo"); //Imprime na tela, pulando linha, a mensagem "Olá Mundo" 
     }
     ```
+
+## Arquivos para consulta
+
+[Arquivo ino][proj7ino]
+
+
+
+
+[proj7png]: img/proj/proj7.png
+[proj7ino]: arq/proj7.ino

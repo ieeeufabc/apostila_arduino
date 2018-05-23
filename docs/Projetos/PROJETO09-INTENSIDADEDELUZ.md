@@ -8,14 +8,9 @@ Simularemos agora um sistema de iluminação, onde a intensidade luminosa é reg
 
 ## Modelo esquemático em Protoboard
 
-TODO: FIGURA
-
-## Modelo esquemático em Protoboard
-
-TODO: FIGURA
+![Modelo esquemático][proj9png]
 
 ??? note "Código"
-    ```c
     ```c
     const int pot = A0; 
     const int led = 11; 
@@ -46,3 +41,16 @@ TODO: FIGURA
     }
 
     ```
+
+## Arquivos para consulta
+
+[Arquivo ino][proj9ino]
+[Arquivo fzz][proj9fzz]
+
+
+
+
+
+[proj9png]: img/proj/proj9.png
+[proj9ino]: arq/proj9.ino
+[proj9fzz]: arq/proj9.fzz

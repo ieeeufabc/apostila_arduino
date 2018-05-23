@@ -6,7 +6,7 @@ Utilizando o sensor ultrassônico será determinada a distância entre objetos!
 
 ## Modelo esquemático em Protoboard
 
-TODO: FIGURA
+![Modelo esquemático][proj14png]
 
 ??? note "Código"
     ```c
@@ -45,3 +45,16 @@ TODO: FIGURA
       delay(250); //pausa o programa por 250 milisegundos, para facilitar a leitura dos valores no Monitor Serial 
     }
     ```
+
+## Arquivos para consulta
+
+[Arquivo ino][proj14ino]
+[Arquivo fzz][proj14fzz]
+
+
+
+
+
+[proj14png]: img/proj/proj14.png
+[proj14ino]: arq/proj14.ino
+[proj14fzz]: arq/proj14.fzz

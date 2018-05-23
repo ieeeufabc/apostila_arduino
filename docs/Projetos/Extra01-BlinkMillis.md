@@ -1,4 +1,4 @@
-Este é um projeto extra! Tente refazer o Projeto 1 – Blink utilizando a função `millis()`.
+Este é um projeto extra! Tente refazer o [Projeto 1 - Blink](Projetos/PROJETO01-BLINK.md) utilizando a função `millis()`.
 
 ## Lista de materiais
 
@@ -7,9 +7,7 @@ Este é um projeto extra! Tente refazer o Projeto 1 – Blink utilizando a funç
  - 1 Resistor 5kΩ
  - 1 Resistor 220Ω
 
-## Modelo esquemático em Protoboard
 
-TODO: FIGURA
 
 ??? note "Código" 
     ```c
@@ -57,3 +55,14 @@ TODO: FIGURA
       }
     }
     ```
+
+## Arquivos para consulta
+
+[Arquivo ino][proj16ino]
+[Arquivo fzz][proj16fzz]
+
+
+
+
+[proj16ino]: arq/proj16.ino
+[proj16fzz]: arq/proj16.fzz

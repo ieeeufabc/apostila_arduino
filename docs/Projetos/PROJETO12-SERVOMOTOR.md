@@ -6,7 +6,8 @@ Ansioso para automatizar seus projetos? Nesse projeto iremos utilizar um servo m
 
 ## Modelo esquemático em Protoboard
 
-TODO: FIGURA
+![Modelo esquemático][proj12png]
+
 
 ??? note "Código"  
     ```c
@@ -44,4 +45,17 @@ TODO: FIGURA
 	    servo.write(posicao); //atribui o valor da variável "posicao" ao servo motor 
 	  }
 	}
-	```
+    ```
+
+
+## Arquivos para consulta
+
+[Arquivo ino][proj12ino]
+[Arquivo fzz][proj12fzz]
+
+
+
+
+[proj12png]: img/proj/proj12.png
+[proj12ino]: arq/proj12.ino
+[proj12fzz]: arq/proj12.fzz

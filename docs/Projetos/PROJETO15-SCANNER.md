@@ -8,8 +8,8 @@ Neste projeto identificaremos cores por ondas de infravermelho.
  - 1 Resistor 220Ω
 
 ## Modelo esquemático em Protoboard
-TODO: FIGURA
 
+![Modelo esquemático][proj15png]
 
 ??? note "Código"
     ```c
@@ -38,3 +38,14 @@ TODO: FIGURA
       delay(500); //pausa o programa por 500 milisegundos, para facilitar a leitura dos valores no Monitor Serial 
     }
     ```
+
+## Arquivos para consulta
+
+[Arquivo ino][proj15ino]
+[Arquivo fzz][proj15fzz]
+
+
+
+[proj15png]: img/proj/proj15.png
+[proj15ino]: arq/proj15.ino
+[proj15fzz]: arq/proj15.fzz

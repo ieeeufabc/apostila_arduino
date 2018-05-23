@@ -6,7 +6,7 @@ Quente ou frio? Nesse projeto faremos a conversão e leitura de sinais analógic
 
 ## Modelo esquemático em Protoboard
 
-TODO: FIGURA
+![Modelo esquemático][proj11png]
 
 ??? note "Código"
     ```c
@@ -38,3 +38,16 @@ TODO: FIGURA
       delay(1000); //pausa o programa por 1000 milisegundos, 1 segundo para facilitar a leitura dos valores no Monitor Serial
     }
     ```
+
+## Arquivos para consulta
+
+[Arquivo ino][proj11ino]
+[Arquivo fzz][proj11fzz]
+
+
+
+
+
+[proj11png]: img/proj/proj11.png
+[proj11ino]: arq/proj11.ino
+[proj11fzz]: arq/proj11.fzz

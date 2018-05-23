@@ -1,4 +1,4 @@
-Este é um projeto extra! Tente refazer o Projeto 2 - Farol utilizando os conceitos de vetor.
+Este é um projeto extra! Tente refazer o[Projeto 2 - Farol](Projetos/PROJETO02-FAROL.md) utilizando os conceitos de vetor.
 
 ## Lista de materiais
 
@@ -9,7 +9,7 @@ Este é um projeto extra! Tente refazer o Projeto 2 - Farol utilizando os concei
 
 ## Modelo esquemático em Protoboard
 
-TODO: FIGURA
+
 
 ??? note "Código"
     ```c
@@ -46,3 +46,16 @@ TODO: FIGURA
   		}
 	}
     ```
+
+## Arquivos para consulta
+
+[Arquivo ino][proj17ino]
+[Arquivo fzz][proj17fzz]
+
+
+
+
+
+
+[proj17ino]: arq/proj17.ino
+[proj17fzz]: arq/proj17.fzz

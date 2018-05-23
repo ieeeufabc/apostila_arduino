@@ -1,4 +1,4 @@
-Este projeto tem como objetivo construir um sistema simulado de um farol de transito. Para isso os conceitos aprendidos no Projeto 1 - Blink serão utilizados.
+Este projeto tem como objetivo construir um sistema simulado de um farol de transito. Para isso os conceitos aprendidos no [Projeto 1 - Blink](Projetos/PROJETO01-BLINK.md) serão utilizados.
 
 ## Lista de materiais
 
@@ -9,7 +9,7 @@ Este projeto tem como objetivo construir um sistema simulado de um farol de tran
 
 ## Modelo esquemático em Protoboard
 
-TODO: FIGURA
+![Modelo esquemático][proj2png]
 
 ??? note "Código"
     ```c
@@ -58,3 +58,14 @@ TODO: FIGURA
       delay(1000); //pausa o programa por 1000 milisegundos, 1 segundo 
     }
     ```
+
+## Arquivos para consulta
+
+[Arquivo ino][proj2ino]
+[Arquivo fzz][proj2fzz]
+
+
+
+[proj2png]: img/proj/proj2.png
+[proj2ino]: arq/proj2.ino
+[proj2fzz]: arq/proj2.fzz

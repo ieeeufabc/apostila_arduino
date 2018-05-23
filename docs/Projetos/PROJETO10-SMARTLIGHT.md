@@ -9,7 +9,8 @@ Cansou de ajustar manualmente a luz de casa? Neste projeto será desenvolvido um
 
 ## Modelo esquemático em Protoboard
 
-TODO: FIGURA
+![Modelo esquemático][proj10png]
+
 
 ??? note "Código"
     ```c
@@ -41,3 +42,15 @@ TODO: FIGURA
     }
 
     ```
+    
+## Arquivos para consulta
+
+[Arquivo ino][proj10ino]
+[Arquivo fzz][proj10fzz]
+
+
+
+
+[proj10png]: img/proj/proj10.png
+[proj10ino]: arq/proj10.ino
+[proj10fzz]: arq/proj10.fzz

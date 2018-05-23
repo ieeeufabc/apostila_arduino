@@ -7,7 +7,7 @@ Neste projeto será iremos controlar as cores de um LED RGB.
 
 ## Modelo esquemático em Protoboard
 
-TODO: FIGURA
+![Modelo esquemático][proj6png]
 
 ??? note "Código"
     ```c
@@ -56,3 +56,16 @@ TODO: FIGURA
       delay(1000); //pausa o programa por 1000 milisegundos, 1 segundo 
     }
     ```    
+
+## Arquivos para consulta
+
+[Arquivo ino][proj6ino]
+[Arquivo fzz][proj6fzz]
+
+
+
+
+
+[proj6png]: img/proj/proj6.png
+[proj6ino]: arq/proj6.ino
+[proj6fzz]: arq/proj6.fzz

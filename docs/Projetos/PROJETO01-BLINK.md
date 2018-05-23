@@ -7,7 +7,7 @@ Este projeto tem como objetivo demonstrar como realizar o acionamento e desacion
 
 ## Modelo esquemático em Protoboard
 
-TODO: FIGURA
+![Modelo esquemático][proj1png]
 
 ??? note "Código"
     ```c
@@ -36,3 +36,14 @@ TODO: FIGURA
       delay(1000); //pausa o programa por 1000 milisegundos, 1 segundo 
     }
     ```
+
+## Arquivos para consulta
+
+[Arquivo ino][proj1ino]
+[Arquivo fzz][proj1fzz]
+
+
+
+[proj1png]: img/proj/proj1.png
+[proj1ino]: arq/proj1.ino
+[proj1fzz]: arq/proj1.fzz

@@ -6,7 +6,7 @@ Hora de fazer barulho! Neste projeto faremos uma campainha!
 
 ## Modelo esquemático em Protoboard
 
-TODO: FIGURA
+![Modelo esquemático][proj5png]
 
 ??? note "Código"
     ```c
@@ -33,3 +33,16 @@ TODO: FIGURA
           delay(1000); //pausa o programa por 1000 milisegundos, 1 segundo 
         }
     ```
+
+## Arquivos para consulta
+
+[Arquivo ino][proj5ino]
+[Arquivo fzz][proj5fzz]
+
+
+
+
+
+[proj5png]: img/proj/proj5.png
+[proj5ino]: arq/proj5.ino
+[proj5fzz]: arq/proj5.fzz
