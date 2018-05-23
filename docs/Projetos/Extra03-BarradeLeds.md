@@ -64,6 +64,6 @@ Este é um projeto extra! Tente refazer o[Projeto 2 - Farol](Projetos/PROJETO02-
 
 
 
-[proj17png]: ../img/proj/proj18.png
-[proj17ino]: ../arq/proj18.ino
-[proj17fzz]: ../arq/proj18.fzz
+[proj18png]: ../img/proj/proj18.png
+[proj18ino]: ../arq/proj18.ino
+[proj18fzz]: ../arq/proj18.fzz
