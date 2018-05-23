@@ -31,5 +31,5 @@ Olá Mundo!! Chegou a hora de exibir mensagens!
 
 
 
-[proj7png]: img/proj/proj7.png
-[proj7ino]: arq/proj7.ino
+[proj7png]: ../img/proj/proj7.png
+[proj7ino]: ../arq/proj7.ino

@@ -44,6 +44,6 @@ Este projeto tem como objetivo demonstrar como realizar o acionamento e desacion
 
 
 
-[proj1png]: ../img/proj/proj1.png
-[proj1ino]: arq/proj1.ino
-[proj1fzz]: arq/proj1.fzz
+[proj1png]: ../../img/proj/proj1.png
+[proj1ino]: ../arq/proj1.ino
+[proj1fzz]: ../arq/proj1.fzz

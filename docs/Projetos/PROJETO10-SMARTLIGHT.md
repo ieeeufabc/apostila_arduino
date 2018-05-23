@@ -51,6 +51,6 @@ Cansou de ajustar manualmente a luz de casa? Neste projeto será desenvolvido um
 
 
 
-[proj10png]: img/proj/proj10.png
-[proj10ino]: arq/proj10.ino
-[proj10fzz]: arq/proj10.fzz
+[proj10png]: ../img/proj/proj10.png
+[proj10ino]: ../arq/proj10.ino
+[proj10fzz]: ../arq/proj10.fzz

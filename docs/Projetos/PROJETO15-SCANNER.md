@@ -46,6 +46,6 @@ Neste projeto identificaremos cores por ondas de infravermelho.
 
 
 
-[proj15png]: img/proj/proj15.png
-[proj15ino]: arq/proj15.ino
-[proj15fzz]: arq/proj15.fzz
+[proj15png]: ../img/proj/proj15.png
+[proj15ino]: ../arq/proj15.ino
+[proj15fzz]: ../arq/proj15.fzz

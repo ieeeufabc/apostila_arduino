@@ -64,5 +64,5 @@ Este é um projeto extra! Tente refazer o [Projeto 1 - Blink](Projetos/PROJETO01
 
 
 
-[proj16ino]: arq/proj16.ino
-[proj16fzz]: arq/proj16.fzz
+[proj16ino]: ../arq/proj16.ino
+[proj16fzz]: ../arq/proj16.fzz

@@ -88,9 +88,9 @@ Neste projeto será trabalhado a lógica de botões “press” e “switch”, 
 [Arquivo fzz][proj3fzz]
 
 
+TODO:CASO 2
 
 
-
-[proj3png]: img/proj/proj3.png
-[proj3ino]: arq/proj3.ino
-[proj3fzz]: arq/proj3.fzz
+[proj3png]: ../img/proj/proj3.png
+[proj3ino]: ../arq/proj3.ino
+[proj3fzz]: ../arq/proj3.fzz

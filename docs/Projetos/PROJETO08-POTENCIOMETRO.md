@@ -47,6 +47,6 @@ Vamos ler e exibir valores no monitor serial!
 
 
 
-[proj8png]: img/proj/proj8.png
-[proj8ino]: arq/proj8.ino
-[proj8fzz]: arq/proj8.fzz
+[proj8png]: ../img/proj/proj8.png
+[proj8ino]: ../arq/proj8.ino
+[proj8fzz]: ../arq/proj8.fzz

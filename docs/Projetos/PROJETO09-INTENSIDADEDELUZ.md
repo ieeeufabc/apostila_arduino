@@ -51,6 +51,6 @@ Simularemos agora um sistema de iluminação, onde a intensidade luminosa é reg
 
 
 
-[proj9png]: img/proj/proj9.png
-[proj9ino]: arq/proj9.ino
-[proj9fzz]: arq/proj9.fzz
+[proj9png]: ../img/proj/proj9.png
+[proj9ino]: ../arq/proj9.ino
+[proj9fzz]: ../arq/proj9.fzz

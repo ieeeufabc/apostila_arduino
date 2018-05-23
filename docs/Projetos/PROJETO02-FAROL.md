@@ -66,6 +66,6 @@ Este projeto tem como objetivo construir um sistema simulado de um farol de tran
 
 
 
-[proj2png]: img/proj/proj2.png
-[proj2ino]: arq/proj2.ino
-[proj2fzz]: arq/proj2.fzz
+[proj2png]: ../img/proj/proj2.png
+[proj2ino]: ../arq/proj2.ino
+[proj2fzz]: ../arq/proj2.fzz

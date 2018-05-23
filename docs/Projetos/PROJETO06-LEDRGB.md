@@ -66,6 +66,6 @@ Neste projeto será iremos controlar as cores de um LED RGB.
 
 
 
-[proj6png]: img/proj/proj6.png
-[proj6ino]: arq/proj6.ino
-[proj6fzz]: arq/proj6.fzz
+[proj6png]: ../img/proj/proj6.png
+[proj6ino]: ../arq/proj6.ino
+[proj6fzz]: ../arq/proj6.fzz

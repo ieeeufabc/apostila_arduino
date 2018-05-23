@@ -9,7 +9,7 @@ Este é um projeto extra! Tente refazer o[Projeto 2 - Farol](Projetos/PROJETO02-
 
 ## Modelo esquemático em Protoboard
 
-
+![Modelo esquemático][proj2png]
 
 ??? note "Código"
     ```c
@@ -56,6 +56,6 @@ Este é um projeto extra! Tente refazer o[Projeto 2 - Farol](Projetos/PROJETO02-
 
 
 
-
-[proj17ino]: arq/proj17.ino
-[proj17fzz]: arq/proj17.fzz
+[proj17ino]: ../arq/proj17.ino
+[proj17fzz]: ../arq/proj17.fzz
+[proj2png]: ../img/proj/proj2.png

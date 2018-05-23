@@ -56,6 +56,6 @@ Ansioso para automatizar seus projetos? Nesse projeto iremos utilizar um servo m
 
 
 
-[proj12png]: img/proj/proj12.png
-[proj12ino]: arq/proj12.ino
-[proj12fzz]: arq/proj12.fzz
+[proj12png]: ../img/proj/proj12.png
+[proj12ino]: ../arq/proj12.ino
+[proj12fzz]: ../arq/proj12.fzz

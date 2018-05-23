@@ -52,6 +52,6 @@ Chegou a hora de utilizar um servo motor manualmente!!
 
 
 
-[proj13png]: img/proj/proj13.png
-[proj13ino]: arq/proj13.ino
-[proj13fzz]: arq/proj13.fzz
+[proj13png]: ../img/proj/proj13.png
+[proj13ino]: ../arq/proj13.ino
+[proj13fzz]: ../arq/proj13.fzz

@@ -43,6 +43,6 @@ Hora de fazer barulho! Neste projeto faremos uma campainha!
 
 
 
-[proj5png]: img/proj/proj5.png
-[proj5ino]: arq/proj5.ino
-[proj5fzz]: arq/proj5.fzz
+[proj5png]: ../img/proj/proj5.png
+[proj5ino]: ../arq/proj5.ino
+[proj5fzz]: ../arq/proj5.fzz

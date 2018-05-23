@@ -48,6 +48,6 @@ Quente ou frio? Nesse projeto faremos a conversão e leitura de sinais analógic
 
 
 
-[proj11png]: img/proj/proj11.png
-[proj11ino]: arq/proj11.ino
-[proj11fzz]: arq/proj11.fzz
+[proj11png]: ../img/proj/proj11.png
+[proj11ino]: ../arq/proj11.ino
+[proj11fzz]: ../arq/proj11.fzz
