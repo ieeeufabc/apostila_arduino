@@ -15,7 +15,7 @@ Abaixo segue a ordem que recomendamos para a execução dos projetos.
 [Intensidade de Luz](Projetos/PROJETO09-INTENSIDADEDELUZ.md)
 [Smart Light](Projetos/PROJETO10-SMARTLIGHT.md)
 [Temperatura](Projetos/PROJETO11-TEMPERATURA.md)
-[Intensidade de Luz](Projetos//PROJETO12-INTENSIDADEDELUZv.md)
+[Intensidade de Luz](Projetos//PROJETO12-SERVOMOTOR.md)
 [Servo Motor](Projetos/PROJETO13-SERVOMOTOR.md)
 [Ultrassom](Projetos/PROJETO14-ULTRASSOM.md)
 [Scanner](Projetos/PROJETO15-SCANNER.md)
