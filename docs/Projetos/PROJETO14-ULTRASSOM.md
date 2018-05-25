@@ -48,12 +48,4 @@ Utilizando o sensor ultrassônico será determinada a distância entre objetos!
 
 ## Arquivos para Download
 
-[![Arquivo ino](../arq/ino.png)](../arq/proj14.ino)          [![Arquivo fzz](../arq/fzz.png)](../arq/proj14.fzz)
-
-
-[biblioteca Ultrasonic][Ultrasonic]
-
-
-
-
-[Ultrasonic]: ../arq/Ultrasonic-master.zip
+[![Arquivo ino](../arq/ino.png)](../arq/proj14.ino)          [![Arquivo fzz](../arq/fzz.png)](../arq/proj14.fzz)          [![Ultrasonic](../arq/zip.png)](../arq/Ultrasonic-master.zip)
