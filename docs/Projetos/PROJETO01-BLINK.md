@@ -7,7 +7,7 @@ Este projeto tem como objetivo demonstrar como realizar o acionamento e desacion
 
 ## Modelo esquemático em Protoboard
 
-![Modelo esquemático][../arq/proj1.png]
+![Modelo esquemático](../arq/proj1.png)
 
 ??? note "Código"
     ```c

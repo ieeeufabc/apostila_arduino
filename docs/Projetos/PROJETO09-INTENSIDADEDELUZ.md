@@ -8,7 +8,7 @@ Simularemos agora um sistema de iluminação, onde a intensidade luminosa é reg
 
 ## Modelo esquemático em Protoboard
 
-![Modelo esquemático][../arq/proj9.png]
+![Modelo esquemático](../arq/proj9.png)
 
 ??? note "Código"
     ```c

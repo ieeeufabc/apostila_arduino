@@ -6,7 +6,7 @@ Utilizando o sensor ultrassônico será determinada a distância entre objetos!
 
 ## Modelo esquemático em Protoboard
 
-![Modelo esquemático][../arq/proj14.png]
+![Modelo esquemático](../arq/proj14.png)
 
 ??? note "Código"
     ```c

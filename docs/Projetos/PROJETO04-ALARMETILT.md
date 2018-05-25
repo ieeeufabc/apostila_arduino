@@ -8,7 +8,7 @@ Nesse projeto utilizaremos um sensor de inclinação para acionar um alarme!
 
 ## Modelo esquemático em Protoboard
 
-![Modelo esquemático][../arq/proj4.png]
+![Modelo esquemático](../arq/proj4.png)
 
 ??? note "Código"
     ```c

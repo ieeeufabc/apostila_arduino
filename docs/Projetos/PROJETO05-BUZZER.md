@@ -6,7 +6,7 @@ Hora de fazer barulho! Neste projeto faremos uma campainha!
 
 ## Modelo esquemático em Protoboard
 
-![Modelo esquemático][../arq/proj5.png]
+![Modelo esquemático](../arq/proj5.png)
 
 ??? note "Código"
     ```c

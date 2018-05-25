@@ -9,7 +9,7 @@ Neste projeto identificaremos cores por ondas de infravermelho.
 
 ## Modelo esquemático em Protoboard
 
-![Modelo esquemático][../arq/proj15.png]
+![Modelo esquemático](../arq/proj15.png)
 
 ??? note "Código"
     ```c

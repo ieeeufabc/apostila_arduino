@@ -9,7 +9,7 @@ Neste projeto será trabalhado a lógica de botões “press” e “switch”, 
 
 ## Modelo esquemático em Protoboard
 
-![Modelo esquemático][../arq/proj3.png]
+![Modelo esquemático](../arq/proj3.png)
 
 ??? note "Código - Caso - 1"
     ```c

@@ -7,7 +7,7 @@ Chegou a hora de utilizar um servo motor manualmente!!
 
 ## Modelo esquemático em Protoboard
 
-![Modelo esquemático][../arq/proj13.png]
+![Modelo esquemático](../arq/proj13.png)
 	
 ??? note "Código"
     ```c

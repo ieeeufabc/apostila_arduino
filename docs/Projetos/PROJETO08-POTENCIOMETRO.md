@@ -6,7 +6,7 @@ Vamos ler e exibir valores no monitor serial!
 
 ## Modelo esquemático em Protoboard
 
-![Modelo esquemático][../arq/proj8.png]
+![Modelo esquemático](../arq/proj8.png)
 
 
 ??? note "Código"

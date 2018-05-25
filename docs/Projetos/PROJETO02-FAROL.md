@@ -9,7 +9,7 @@ Este projeto tem como objetivo construir um sistema simulado de um farol de tran
 
 ## Modelo esquemático em Protoboard
 
-![Modelo esquemático][../arq/proj2.png]
+![Modelo esquemático](../arq/proj2.png)
 
 ??? note "Código"
     ```c

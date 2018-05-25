@@ -6,7 +6,7 @@ Quente ou frio? Nesse projeto faremos a conversão e leitura de sinais analógic
 
 ## Modelo esquemático em Protoboard
 
-![Modelo esquemático][../arq/proj11.png]
+![Modelo esquemático](../arq/proj11.png)
 
 ??? note "Código"
     ```c

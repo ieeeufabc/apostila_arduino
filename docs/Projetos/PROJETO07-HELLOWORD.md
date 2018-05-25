@@ -2,7 +2,7 @@ Olá Mundo!! Chegou a hora de exibir mensagens!
 
 ### RESULTADO
 
-![Modelo esquemático][../arq/proj7.png]
+![Modelo esquemático](../arq/proj7.png)
 
 ??? note "Código Comentado"
     ```c
