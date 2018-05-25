@@ -113,7 +113,7 @@ Nos códigos dos programas muitas vezes é preciso executar uma função diversa
 
 ### If (condicional) e if... Else
 
-![11](https://raw.githubusercontent.com/IEEEUFABC/apostila_arduino/master/docs/Teoria/imagens/11.png)
+![11](img//11.png)
 
 É um laço de controle de fluxo onde ele executa certas instruções somente se as condições dentro dos parênteses forem aceitas. As instruções devem ser colocadas depois do if e dentro de chaves (recomendado) ou não. Exemplo de uso do if:
 
@@ -144,7 +144,7 @@ If(x > 120) {
 digitalWrite(LEDpin2, HIGH);
 ```
 
-![12](https://raw.githubusercontent.com/IEEEUFABC/apostila_arduino/master/docs/Teoria/imagens/12.png)
+![12](img//12.png)
 
 
 ### Switch...case
@@ -166,7 +166,7 @@ case var = 4:
   break;
 }
 ```
-![13](https://raw.githubusercontent.com/IEEEUFABC/apostila_arduino/master/docs/Teoria/imagens/13.png)
+![13](img//13.png)
 
 
 ### While
@@ -180,7 +180,7 @@ while (var < 200) {
   var ++;
 }
 ```
-![14](https://raw.githubusercontent.com/IEEEUFABC/apostila_arduino/master/docs/Teoria/imagens/14.png)
+![14](img//14.png)
 
 
 ### For
@@ -197,5 +197,5 @@ void loop() {
   }
 }
 ```
-![15](https://raw.githubusercontent.com/IEEEUFABC/apostila_arduino/master/docs/Teoria/imagens/15.png)
+![15](img//15.png)
 

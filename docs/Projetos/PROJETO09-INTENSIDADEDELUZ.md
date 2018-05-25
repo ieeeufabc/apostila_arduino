@@ -8,7 +8,7 @@ Simularemos agora um sistema de iluminação, onde a intensidade luminosa é reg
 
 ## Modelo esquemático em Protoboard
 
-![Modelo esquemático][proj9png]
+![Modelo esquemático][../arq/proj9.png]
 
 ??? note "Código"
     ```c
@@ -44,12 +44,4 @@ Simularemos agora um sistema de iluminação, onde a intensidade luminosa é reg
 
 ## Arquivos para Download
 
-[![ino][../arq/ino.png]][proj9ino]          [![fzz][../arq/fzz.png]][proj9fzz]
-
-
-
-
-
-[proj9png]: ../arq/proj9.png
-[proj9ino]: ../arq/proj9.ino
-[proj9fzz]: ../arq/proj9.fzz
+[![Arquivo ino](../arq/ino.png)](../arq/proj9.ino)          [![Arquivo fzz](../arq/fzz.png)](../arq/proj9.fzz)

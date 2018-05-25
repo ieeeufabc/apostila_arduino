@@ -6,7 +6,7 @@ Vamos ler e exibir valores no monitor serial!
 
 ## Modelo esquemático em Protoboard
 
-![Modelo esquemático][proj8png]
+![Modelo esquemático][../arq/proj8.png]
 
 
 ??? note "Código"
@@ -41,11 +41,4 @@ Vamos ler e exibir valores no monitor serial!
 
 ## Arquivos para Download
 
-[![ino][../arq/ino.png]][proj8ino]          [![fzz][../arq/fzz.png]][proj8fzz]
-
-
-
-
-[proj8png]: ../arq/proj8.png
-[proj8ino]: ../arq/proj8.ino
-[proj8fzz]: ../arq/proj8.fzz
+[![Arquivo ino](../arq/ino.png)](../arq/proj8.ino)          [![Arquivo fzz](../arq/fzz.png)](../arq/proj8.fzz)

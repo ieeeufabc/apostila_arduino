@@ -6,7 +6,7 @@ Hora de fazer barulho! Neste projeto faremos uma campainha!
 
 ## Modelo esquemático em Protoboard
 
-![Modelo esquemático][proj5png]
+![Modelo esquemático][../arq/proj5.png]
 
 ??? note "Código"
     ```c
@@ -36,12 +36,4 @@ Hora de fazer barulho! Neste projeto faremos uma campainha!
 
 ## Arquivos para Download
 
-[![ino][../arq/ino.png]][proj5ino]          [![fzz][../arq/fzz.png]][proj5fzz]
-
-
-
-
-
-[proj5png]: ../arq/proj5.png
-[proj5ino]: ../arq/proj5.ino
-[proj5fzz]: ../arq/proj5.fzz
+[![Arquivo ino](../arq/ino.png)](../arq/proj5.ino)          [![Arquivo fzz](../arq/fzz.png)](../arq/proj5.fzz)

@@ -7,7 +7,7 @@ Neste projeto será iremos controlar as cores de um LED RGB.
 
 ## Modelo esquemático em Protoboard
 
-![Modelo esquemático][proj6png]
+![Modelo esquemático][../arq/proj6.png]
 
 ??? note "Código"
     ```c
@@ -59,12 +59,7 @@ Neste projeto será iremos controlar as cores de um LED RGB.
 
 ## Arquivos para Download
 
-[![ino][../arq/ino.png]][proj6ino]          [![fzz][../arq/fzz.png]][proj6fzz]
+[![Arquivo ino](../arq/ino.png)](../arq/proj6.ino)          [![Arquivo fzz](../arq/fzz.png)](../arq/proj6.fzz)
 
 
 
-
-
-[proj6png]: ../arq/proj6.png
-[proj6ino]: ../arq/proj6.ino
-[proj6fzz]: ../arq/proj6.fzz

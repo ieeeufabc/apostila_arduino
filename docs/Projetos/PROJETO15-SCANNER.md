@@ -9,7 +9,7 @@ Neste projeto identificaremos cores por ondas de infravermelho.
 
 ## Modelo esquemático em Protoboard
 
-![Modelo esquemático][proj15png]
+![Modelo esquemático][../arq/proj15.png]
 
 ??? note "Código"
     ```c
@@ -41,10 +41,5 @@ Neste projeto identificaremos cores por ondas de infravermelho.
 
 ## Arquivos para Download
 
-[![ino][../arq/ino.png]][proj15ino]          [![fzz][../arq/fzz.png]][proj15fzz]
+[![Arquivo ino](../arq/ino.png)](../arq/proj15.ino)          [![Arquivo fzz](../arq/fzz.png)](../arq/proj15.fzz)
 
-
-
-[proj15png]: ../arq/proj15.png
-[proj15ino]: ../arq/proj15.ino
-[proj15fzz]: ../arq/proj15.fzz

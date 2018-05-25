@@ -8,7 +8,7 @@ Este é um projeto extra! Tente refazer o[Projeto 2 - Farol](Projetos/PROJETO02-
 
 ## Modelo esquemático em Protoboard
 
-![Modelo esquemático][proj18png]
+![Modelo esquemático][../arq/proj18.png]
 
 ??? note "Código"
     ```c
@@ -58,10 +58,4 @@ Este é um projeto extra! Tente refazer o[Projeto 2 - Farol](Projetos/PROJETO02-
 
 ## Arquivos para Download
 
-[![ino][../arq/ino.png]][proj18ino]          [![fzz][../arq/fzz.png]][proj18fzz]
-
-
-
-[proj18png]: ../arq/proj18.png
-[proj18ino]: ../arq/proj18.ino
-[proj18fzz]: ../arq/proj18.fzz
+[![Arquivo ino](../arq/ino.png)](../arq/proj18.ino)          [![Arquivo fzz](../arq/fzz.png)](../arq/proj18.fzz)

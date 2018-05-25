@@ -2,7 +2,7 @@ Olá Mundo!! Chegou a hora de exibir mensagens!
 
 ### RESULTADO
 
-![Modelo esquemático][proj7png]
+![Modelo esquemático][../arq/proj7.png]
 
 ??? note "Código Comentado"
     ```c
@@ -26,10 +26,4 @@ Olá Mundo!! Chegou a hora de exibir mensagens!
 
 ## Arquivos para Download
 
-[![ino][../arq/ino.png]][proj7ino]
-
-
-
-
-[proj7png]: ../arq/proj7.png
-[proj7ino]: ../arq/proj7.ino
+[![Arquivo ino](../arq/ino.png)](../arq/proj7.ino)     

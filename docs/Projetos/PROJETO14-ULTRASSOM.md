@@ -6,7 +6,7 @@ Utilizando o sensor ultrassônico será determinada a distância entre objetos!
 
 ## Modelo esquemático em Protoboard
 
-![Modelo esquemático][proj14png]
+![Modelo esquemático][../arq/proj14.png]
 
 ??? note "Código"
     ```c
@@ -48,14 +48,12 @@ Utilizando o sensor ultrassônico será determinada a distância entre objetos!
 
 ## Arquivos para Download
 
-[![ino][../arq/ino.png]][proj14ino]          [![fzz][../arq/fzz.png]][proj14fzz]
+[![Arquivo ino](../arq/ino.png)](../arq/proj14.ino)          [![Arquivo fzz](../arq/fzz.png)](../arq/proj14.fzz)
+
 
 [biblioteca Ultrasonic][Ultrasonic]
 
 
 
 
-[proj14png]: ../arq/proj14.png
-[proj14ino]: ../arq/proj14.ino
-[proj14fzz]: ../arq/proj14.fzz
 [Ultrasonic]: ../arq/Ultrasonic-master.zip

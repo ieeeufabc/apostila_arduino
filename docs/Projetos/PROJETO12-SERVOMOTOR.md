@@ -6,7 +6,7 @@ Ansioso para automatizar seus projetos? Nesse projeto iremos utilizar um servo m
 
 ## Modelo esquemático em Protoboard
 
-![Modelo esquemático][proj12png]
+![Modelo esquemático][../arq/proj12.png]
 
 
 ??? note "Código"  
@@ -50,11 +50,5 @@ Ansioso para automatizar seus projetos? Nesse projeto iremos utilizar um servo m
 
 ## Arquivos para Download
 
-[![ino][../arq/ino.png]][proj12ino]          [![fzz][../arq/fzz.png]][proj12fzz]
+[![Arquivo ino](../arq/ino.png)](../arq/proj12.ino)          [![Arquivo fzz](../arq/fzz.png)](../arq/proj12.fzz)
 
-
-
-
-[proj12png]: ../arq/proj12.png
-[proj12ino]: ../arq/proj12.ino
-[proj12fzz]: ../arq/proj12.fzz
