@@ -58,9 +58,4 @@ Este é um projeto extra! Tente refazer o [Projeto 1 - Blink](Projetos/PROJETO01
 
 ## Arquivos para Download
 
-![[ino][proj16ino]][../arq/ino.png]        [![fzz][../arq/fzz.png]][proj16fzz]
-
-
-
-[proj16ino]: ../arq/proj16.ino
-[proj16fzz]: ../arq/proj16.fzz
+    [![Arquivo ino](../arq/ino.png](../arq/proj16.ino)              [![Arquivo fzz](../arq/fzz.png](../arq/proj16.fzz)
