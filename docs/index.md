@@ -1,0 +1,3 @@
+Esta apostila foi produzinda pelo Ramo Estudantil IEEE UFABC e nela mostraremos como trabalhar com a placa microcontroladora da marca Arduino. Por ser um open source project (uma plataforma aberta), há disponível gratuitamente o diagrama de circuito de suas placas assim como o seu software. Dessa forma, existem diversas outras marcas de microcontroladores compatíveis com o original e até mesmo a possibilidade do usuário montar sua própria placa. Utilizaremos o modelo Arduino UNO R3, mas também podem ser usadas outras marcas como Freeduino, Seeeduino, Boarduino, Sanguino, Roboduino, etc, que são totalmente comunicáveis com o Arduino IDE, Arduino Shields e tudo mais que você pode usar com uma placa Arduino Oficial.
+
+![arduinouno](Teoria/img/1.png "Arduino Uno")

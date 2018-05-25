@@ -50,7 +50,7 @@ markdown_extensions:
 pages:
   - Início: index.md
   - Teoria:
-    - Arduino Uno: Teoria/ArduinoUno.md
+    - Arduino Uno: Teoria/indtroducao.md
     - Programação: Teoria/Programacao.md
   - Projetos:
     - Leia-me!!!: Projetos/comeco.md
