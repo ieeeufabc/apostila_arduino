@@ -56,14 +56,12 @@ Este é um projeto extra! Tente refazer o[Projeto 2 - Farol](Projetos/PROJETO02-
     }
     ```
 
-## Arquivos para consulta
+## Arquivos para Download
 
-[Arquivo ino][proj18ino]
-
-[Arquivo fzz][proj18fzz]
+[![ino][../arq/ino.png]][proj18ino]          [![fzz][../arq/fzz.png]][proj18fzz]
 
 
 
-[proj18png]: ../img/proj/proj18.png
+[proj18png]: ../arq/proj18.png
 [proj18ino]: ../arq/proj18.ino
 [proj18fzz]: ../arq/proj18.fzz

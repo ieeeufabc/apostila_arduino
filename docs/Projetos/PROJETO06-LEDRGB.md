@@ -57,16 +57,14 @@ Neste projeto será iremos controlar as cores de um LED RGB.
     }
     ```    
 
-## Arquivos para consulta
+## Arquivos para Download
 
-[Arquivo ino][proj6ino]
-
-[Arquivo fzz][proj6fzz]
+[![ino][../arq/ino.png]][proj6ino]          [![fzz][../arq/fzz.png]][proj6fzz]
 
 
 
 
 
-[proj6png]: ../img/proj/proj6.png
+[proj6png]: ../arq/proj6.png
 [proj6ino]: ../arq/proj6.ino
 [proj6fzz]: ../arq/proj6.fzz

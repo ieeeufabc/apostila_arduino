@@ -39,14 +39,12 @@ Neste projeto identificaremos cores por ondas de infravermelho.
     }
     ```
 
-## Arquivos para consulta
+## Arquivos para Download
 
-[Arquivo ino][proj15ino]
-
-[Arquivo fzz][proj15fzz]
+[![ino][../arq/ino.png]][proj15ino]          [![fzz][../arq/fzz.png]][proj15fzz]
 
 
 
-[proj15png]: ../img/proj/proj15.png
+[proj15png]: ../arq/proj15.png
 [proj15ino]: ../arq/proj15.ino
 [proj15fzz]: ../arq/proj15.fzz

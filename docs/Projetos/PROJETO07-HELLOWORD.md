@@ -24,12 +24,12 @@ Olá Mundo!! Chegou a hora de exibir mensagens!
     }
     ```
 
-## Arquivos para consulta
+## Arquivos para Download
 
-[Arquivo ino][proj7ino]
-
-
+[![ino][../arq/ino.png]][proj7ino]
 
 
-[proj7png]: ../img/proj/proj7.png
+
+
+[proj7png]: ../arq/proj7.png
 [proj7ino]: ../arq/proj7.ino

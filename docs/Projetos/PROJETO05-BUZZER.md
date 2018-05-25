@@ -34,16 +34,14 @@ Hora de fazer barulho! Neste projeto faremos uma campainha!
         }
     ```
 
-## Arquivos para consulta
+## Arquivos para Download
 
-[Arquivo ino][proj5ino]
-
-[Arquivo fzz][proj5fzz]
+[![ino][../arq/ino.png]][proj5ino]          [![fzz][../arq/fzz.png]][proj5fzz]
 
 
 
 
 
-[proj5png]: ../img/proj/proj5.png
+[proj5png]: ../arq/proj5.png
 [proj5ino]: ../arq/proj5.ino
 [proj5fzz]: ../arq/proj5.fzz

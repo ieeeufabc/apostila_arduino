@@ -37,14 +37,12 @@ Este projeto tem como objetivo demonstrar como realizar o acionamento e desacion
     }
     ```
 
-## Arquivos para consulta
+## Arquivos para Download
 
-[Arquivo ino][proj1ino]
-
-[Arquivo fzz][proj1fzz]
+[![ino][../arq/ino.png]][proj1ino]          [![fzz][../arq/fzz.png]][proj1fzz]
 
 
 
-[proj1png]: ../img/proj/proj1.png
+[proj1png]: ../arq/proj1.png
 [proj1ino]: ../arq/proj1.ino
 [proj1fzz]: ../arq/proj1.fzz

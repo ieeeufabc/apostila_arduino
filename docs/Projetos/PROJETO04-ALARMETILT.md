@@ -46,16 +46,14 @@ Nesse projeto utilizaremos um sensor de inclinação para acionar um alarme!
     }
     ```
 
-## Arquivos para consulta
+## Arquivos para Download
 
-[Arquivo ino][proj4ino]
-
-[Arquivo fzz][proj4fzz]
+[![ino][../arq/ino.png]][proj4ino]          [![fzz][../arq/fzz.png]][proj4fzz]
 
 
 
 
 
-[proj4png]: ../img/proj/proj4.png
+[proj4png]: ../arq/proj4.png
 [proj4ino]: ../arq/proj4.ino
 [proj4fzz]: ../arq/proj4.fzz

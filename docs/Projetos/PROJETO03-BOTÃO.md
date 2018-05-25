@@ -82,16 +82,14 @@ Neste projeto será trabalhado a lógica de botões “press” e “switch”, 
     }
     ```
 
-## Arquivos para consulta
+## Arquivos para Download
 
-[Arquivo ino][proj3ino]
-
-[Arquivo fzz][proj3fzz]
+[![ino][../arq/ino.png]][proj3ino]          [![fzz][../arq/fzz.png]][proj3fzz]
 
 
 TODO:CASO 2
 
 
-[proj3png]: ../img/proj/proj3.png
+[proj3png]: ../arq/proj3.png
 [proj3ino]: ../arq/proj3.ino
 [proj3fzz]: ../arq/proj3.fzz

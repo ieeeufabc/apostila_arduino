@@ -44,15 +44,13 @@ Chegou a hora de utilizar um servo motor manualmente!!
 	}
     ```
 
-## Arquivos para consulta
+## Arquivos para Download
 
-[Arquivo ino][proj13ino]
-
-[Arquivo fzz][proj13fzz]
+[![ino][../arq/ino.png]][proj13ino]          [![fzz][../arq/fzz.png]][proj13fzz]
 
 
 
 
-[proj13png]: ../img/proj/proj13.png
+[proj13png]: ../arq/proj13.png
 [proj13ino]: ../arq/proj13.ino
 [proj13fzz]: ../arq/proj13.fzz

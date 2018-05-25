@@ -39,15 +39,13 @@ Vamos ler e exibir valores no monitor serial!
     }
     ```
 
-## Arquivos para consulta
+## Arquivos para Download
 
-[Arquivo ino][proj8ino]
-
-[Arquivo fzz][proj8fzz]
+[![ino][../arq/ino.png]][proj8ino]          [![fzz][../arq/fzz.png]][proj8fzz]
 
 
 
 
-[proj8png]: ../img/proj/proj8.png
+[proj8png]: ../arq/proj8.png
 [proj8ino]: ../arq/proj8.ino
 [proj8fzz]: ../arq/proj8.fzz

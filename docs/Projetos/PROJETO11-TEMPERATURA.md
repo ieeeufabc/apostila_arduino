@@ -39,16 +39,14 @@ Quente ou frio? Nesse projeto faremos a conversão e leitura de sinais analógic
     }
     ```
 
-## Arquivos para consulta
+## Arquivos para Download
 
-[Arquivo ino][proj11ino]
-
-[Arquivo fzz][proj11fzz]
+[![ino][../arq/ino.png]][proj11ino]          [![fzz][../arq/fzz.png]][proj11fzz]
 
 
 
 
 
-[proj11png]: ../img/proj/proj11.png
+[proj11png]: ../arq/proj11.png
 [proj11ino]: ../arq/proj11.ino
 [proj11fzz]: ../arq/proj11.fzz

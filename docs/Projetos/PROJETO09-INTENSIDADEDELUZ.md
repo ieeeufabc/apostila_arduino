@@ -42,16 +42,14 @@ Simularemos agora um sistema de iluminação, onde a intensidade luminosa é reg
 
     ```
 
-## Arquivos para consulta
+## Arquivos para Download
 
-[Arquivo ino][proj9ino]
-
-[Arquivo fzz][proj9fzz]
+[![ino][../arq/ino.png]][proj9ino]          [![fzz][../arq/fzz.png]][proj9fzz]
 
 
 
 
 
-[proj9png]: ../img/proj/proj9.png
+[proj9png]: ../arq/proj9.png
 [proj9ino]: ../arq/proj9.ino
 [proj9fzz]: ../arq/proj9.fzz

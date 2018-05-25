@@ -59,14 +59,12 @@ Este projeto tem como objetivo construir um sistema simulado de um farol de tran
     }
     ```
 
-## Arquivos para consulta
+## Arquivos para Download
 
-[Arquivo ino][proj2ino]
-
-[Arquivo fzz][proj2fzz]
+[![ino][../arq/ino.png]][proj2ino]          [![fzz][../arq/fzz.png]][proj2fzz]
 
 
 
-[proj2png]: ../img/proj/proj2.png
+[proj2png]: ../arq/proj2.png
 [proj2ino]: ../arq/proj2.ino
 [proj2fzz]: ../arq/proj2.fzz

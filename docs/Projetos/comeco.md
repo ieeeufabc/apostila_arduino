@@ -26,7 +26,7 @@ Abaixo segue a ordem que recomendamos para a execução dos projetos.
 
 [Temperatura](PROJETO11-TEMPERATURA.md)
 
-[Intensidade de Luz](/PROJETO12-SERVOMOTOR.md)
+[Servo Motor](/PROJETO12-SERVOMOTOR.md)
 
 [Servo Motor](PROJETO13-SERVOMOTOR.md)
 

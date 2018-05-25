@@ -48,15 +48,13 @@ Ansioso para automatizar seus projetos? Nesse projeto iremos utilizar um servo m
     ```
 
 
-## Arquivos para consulta
+## Arquivos para Download
 
-[Arquivo ino][proj12ino]
-
-[Arquivo fzz][proj12fzz]
+[![ino][../arq/ino.png]][proj12ino]          [![fzz][../arq/fzz.png]][proj12fzz]
 
 
 
 
-[proj12png]: ../img/proj/proj12.png
+[proj12png]: ../arq/proj12.png
 [proj12ino]: ../arq/proj12.ino
 [proj12fzz]: ../arq/proj12.fzz
